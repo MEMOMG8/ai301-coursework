@@ -205,12 +205,23 @@ This is also the basis for the claim comment you write in Unit 2.
 
 **Selection rationale**
 
-[Answer all three:
+**1. Fit to my interests and to the time available.**
 
-1. The issue's fit to your interests and to the time available.
-2. What the verdict identified correctly, and what you weighed that the rubric could
-   not.
-3. The anticipated difficulty in claiming it.]
+I am interested in #26 because it combines AI safety monitoring with a backend API
+health endpoint, which fits my goals in backend, cloud, and Applied AI. The 2–4 hour
+estimate feels realistic, and the task is scoped enough for me to complete carefully.
+
+**2. What the verdict identified correctly, and what I weighed that the rubric could not.**
+
+I agree with the verdict because the issue is clearly defined, unassigned, and has no
+open PRs. However, I chose #26 instead of #53 because another student was already
+actively investigating #53, even though the rubric still considered it unclaimed.
+
+**3. The anticipated difficulty in claiming it.**
+
+I think it should be relatively easy to claim because the repository has no PRs and
+there is no visible work on this issue. The five required CI jobs may take some care,
+but they give me a clear way to verify that the change is correct.
 
 ---
 
